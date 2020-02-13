@@ -1,7 +1,7 @@
 {
   "name": "@doxalabs/helloworldx",
-  "version": "1.0.1",
-  "description": "hello world",
+  "version": "1.0.2",
+  "description": "npm hello world demo",
   "main": "index.js",
   "bin": {
     "helloworldx": "./bin/helloworldx.js"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doxa-labs/hello-world-x.git"
+    "url": "git+https://github.com/doxa-labs/helloworldx.git"
   },
   "keywords": [
     "git",
@@ -22,7 +22,7 @@
   "author": "Fatih YILDIZHAN at Doxa Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doxa-labs/hello-world-x.git/issues"
+    "url": "https://github.com/doxa-labs/helloworldx.git/issues"
   },
-  "homepage": "https://github.com/doxa-labs/hello-world-x.git#readme"
+  "homepage": "https://github.com/doxa-labs/helloworldx.git#readme"
 }
